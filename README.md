@@ -1,1 +1,2 @@
-# hospitalManangmentSystem
+# hospitalManangementSystem
+Basic Hospital Management System
